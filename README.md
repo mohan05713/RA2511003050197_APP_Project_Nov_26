@@ -5,12 +5,42 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mohan05713/nexus-crisis-platform">GitHub Repository</a>
+  <a href="https://github.com/mohan05713/RA2511003050197_APP_Project_Nov_26">GitHub Repository</a>
   ·
   <a href="https://nexus-crisis-platform.vercel.app/">Vercel Project Domain</a>
   ·
-  <a href="https://github.com/mohan05713/nexus-crisis-platform/issues">Report an Issue</a>
+  <a href="https://github.com/mohan05713/RA2511003050197_APP_Project_Nov_26/issues">Report an Issue</a>
 </p>
+
+---
+
+## Academic and Team Details
+
+| Field | Details |
+| --- | --- |
+| Course ID | 21CSC203P |
+| Course Name | Advanced Programming Practices |
+| Subject | APP |
+| Department | Computer Science and Engineering (CSE) |
+| Section | CSE – D |
+| Academic Year | 2025–2029 |
+| Project Title | NEXUS AI – Crisis Intelligence Platform |
+
+### Team Members
+
+| Name | Register Number | Role |
+| --- | --- | --- |
+| Abinaya T.S | RA2511003050197 | Team Leader |
+| Shri Harini R | RA2511003050542 | Team Member |
+| Nasiha S | RA2511003050228 | Team Member |
+| Atchaya V | RA2511003050225 | Team Member |
+
+### Mentor Details
+
+| Field | Details |
+| --- | --- |
+| Mentor Name | Dr. Mani |
+| Designation | Not specified |
 
 ---
 
@@ -128,7 +158,7 @@ FastAPI application
 ## Repository structure
 
 ```text
-nexus-crisis-platform/
+RA2511003050197_APP_Project_Nov_26/
 ├── backend/
 │   ├── __init__.py
 │   ├── config.py              # Environment-based application settings
@@ -197,8 +227,8 @@ The core application can start without Hugging Face credentials. Model-backed fe
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/mohan05713/nexus-crisis-platform.git
-cd nexus-crisis-platform
+git clone https://github.com/mohan05713/RA2511003050197_APP_Project_Nov_26.git
+cd RA2511003050197_APP_Project_Nov_26
 ```
 
 Alternatively, download the repository ZIP from GitHub and extract it.
@@ -319,15 +349,14 @@ Potential next steps include:
 
 ## Project links
 
-- **Repository:** https://github.com/mohan05713/nexus-crisis-platform
+- **Repository:** https://github.com/mohan05713/RA2511003050197_APP_Project_Nov_26
 - **Vercel domain:** https://nexus-crisis-platform.vercel.app/
 - **API documentation (when the backend is reachable):** `/docs`
-- **Issue tracker:** https://github.com/mohan05713/nexus-crisis-platform/issues
+- **Issue tracker:** https://github.com/mohan05713/RA2511003050197_APP_Project_Nov_26/issues
 
-## Author
+## Project Team
 
-**Mohan**  
-GitHub: [@mohan05713](https://github.com/mohan05713)
+This project is developed by the team listed in the Academic and Team Details section above.
 
 ---
 

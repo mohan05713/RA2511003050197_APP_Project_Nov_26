@@ -39,8 +39,8 @@
 
 | Field | Details |
 | --- | --- |
-| Mentor Name | Dr. Mani |
-| Designation | Not specified |
+| Mentor Name | Dr. D. Deena Rose |
+| Designation | Assistant Professor, Department of Computer Science and Engineering |
 
 ---
 

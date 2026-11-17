@@ -9,6 +9,8 @@
   ·
   <a href="https://nexus-crisis-platform.vercel.app/">Vercel Project Domain</a>
   ·
+  <a href="./NEXUS_Report_Full_Final.pdf">Final Project Report (PDF)</a>
+  ·
   <a href="https://github.com/mohan05713/RA2511003050197_APP_Project_Nov_26/issues">Report an Issue</a>
 </p>
 
